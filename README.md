@@ -23,7 +23,7 @@ Contributing / Contribuir
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request to **develop** branch
+5. Create new Pull Request to **master** branch
 
 ***
 
@@ -32,7 +32,7 @@ Contributing / Contribuir
 2. Crea un branch con para tus cambios (`git checkout -b mis-nuevos-cambios`)
 3. Commit de tus cambios (`git commit -am 'Mi nuevo idioma o modificacion de idioma'`)
 4. Hazle Push al nuevo branch (`git push origin mis-nuevos-cambios`)
-5. Finalmente crea un Pull Request a **master** branch, y recibiremos tus modificaciones
+5. Finalmente crea un Pull Request a **master** branch
   
 
 Doing the right thing | Hacer lo apropiado
@@ -43,7 +43,7 @@ If you want to introduce a new language are 4 easy steps
 * Copy the ***english*** folder.
 * ***Rename*** the copy with the name of your ***new language***.
 * Editing the ***global.php*** at the end of line 2 will find **= "en";** replaces the abbreviation of your new language. They are 2 digits [here you can view the abbreviation for each language](http://utils.mucattu.com/iso_639-1.html)
-* Away from here is only modify the values are in quotes after the equal sign **"=" ** in each language file.
+* Away from here is only modify the values are in quotes after the equal sign **"="** in each language file.
 
 You can also contribute by correcting grammatical errors you find.
 
