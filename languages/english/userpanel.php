@@ -15,7 +15,7 @@ $lang['Admin_panel_descript'] = "Admin panel, administrators only";
 $lang['status_account_vew'] = 'statement    ';
 $lang['game_status_vew'] = 'offline    ';
 $lang['vip_account'] = 'VIP account';
-$lang['status_account'] = 'estatus account';
+$lang['status_account'] = 'Account status';
 $lang['game_status'] = 'Game status';
 $lang['vip_account_vew'] = 'Unknow';
 

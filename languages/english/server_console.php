@@ -1,4 +1,5 @@
-<?php 
+<?php
+/*RUST*/ 
 $lang['auth_failed'] = "Could not connect to server or try again later";
 $lang['player_not_found'] = "Couldn't find a player with the steam id";
 $lang['player_need_online'] = "Player needs to be online to receive the item!";
