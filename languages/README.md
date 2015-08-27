@@ -39,4 +39,5 @@ State of the Language | Estado de los idiomas
 
 - English 100% (Default language)
 - Spanish 80%
+- Russian 0%
 
