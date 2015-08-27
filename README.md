@@ -23,7 +23,7 @@ Contributing / Contribuir
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request to **master** branch
+5. Create new Pull Request to **develop** branch
 
 ***
 
@@ -32,7 +32,7 @@ Contributing / Contribuir
 2. Crea un branch con para tus cambios (`git checkout -b mis-nuevos-cambios`)
 3. Commit de tus cambios (`git commit -am 'Mi nuevo idioma o modificacion de idioma'`)
 4. Hazle Push al nuevo branch (`git push origin mis-nuevos-cambios`)
-5. Finalmente crea un Pull Request a **master** branch
+5. Finalmente crea un Pull Request a **develop** branch
   
 
 Doing the right thing | Hacer lo apropiado
